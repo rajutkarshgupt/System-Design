@@ -1,0 +1,44 @@
+Steps
+
+1 Define MVP Minimum Viable Product/V0 
+
+2 Capacity Estimation
+
+3 Design Goals
+
+1 MVP
+
+1 Functional requirements
+
+1 link generate
+
+2 redirect
+
+3 custom
+
+4 expiration after timespan
+
+2 Non Functional requirements
+
+1 highly available
+
+2 minimum latency
+
+3 non predictable
+
+3 Extended requirements
+
+accessibility
+
+2 Capacity Estimation
+
+100:1 read/write
+
+500 M
+
+
+
+
+
+
+
